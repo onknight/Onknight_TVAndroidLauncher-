@@ -5,14 +5,16 @@
 A lightweight custom home screen for Android TV, built for a Sony Bravia but written to run on any Android TV. Weather with icons, system stats, clock, a favourites row and an all-apps grid over your own wallpaper.
 
 ## Features
-- **Your wallpaper:** use the built-in artwork or pick your own with the built-in folder browser (internal storage, USB drives, SD cards).
-- **Weather:** location detected automatically (or set your city), Celsius or Fahrenheit by country, 5-day forecast with drawn icons.
-- **Your own favourites:** on first run you tick the apps you want, and they become Row 1. Change them any time from Menu > Choose my favourites (up to 9).
-- **One Menu button:** All apps, Settings, and Add/Remove an app row.
-- **Up to 3 app rows:** Row 1 holds your favourites and the Menu button. Extra rows sit beneath it and fill with the apps you use most.
-- **Smart ordering:** favourites sort by how often you launch them, re-sorted only when you come back to the launcher. Can be turned off or reset.
-- **Tile size:** Auto-fit, Compact, Standard or Large. Tiles also scale with the number of rows and your screen width.
-- **Remembers where you were:** focus is restored to your last tile, and Home closes the grid and menus and returns you to the home row.
+Features
+Features
+Your wallpaper: use the built-in artwork or pick your own with the built-in folder browser (internal storage, USB drives, SD cards).
+Weather: location detected automatically (or set your city), Celsius or Fahrenheit by country, 5-day forecast with drawn icons.
+Your own favourites: on first run you tick the apps you want, and they become Row 1. Change them any time from Menu > Choose my favourites (up to 9).
+One Menu button: All apps, Settings, and Add/Remove an app row.
+Up to 3 app rows: Row 1 holds your favourites and the Menu button. Extra rows sit beneath it and fill with the apps you use most.
+Smart ordering: favourites sort by how often you launch them, re-sorted only when you come back to the launcher. Can be turned off or reset.
+Tile size: Auto-fit, Compact, Standard or Large. Tiles also scale with the number of rows and your screen width.
+Remembers where you were: focus is restored to
 
 ## Download
 Grab the latest APK from the [Releases](../../releases) page and sideload it onto your Android TV.
