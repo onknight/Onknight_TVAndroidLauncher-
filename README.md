@@ -45,10 +45,10 @@ Sorry about that this is my first app bear with me as I work through any issues
 2. Open the app once. A first-run prompt will ask whether you want to use the default wallpaper or choose your own.
 3. Because Android does not allow an app to set itself as the default home screen, use a utility such as **TVBoxTools** (or ADB) to set **Onknight Launcher** as your default launcher and disable the stock home screen if pressing the **Home** button reverts to the stock UI.
 
-## Building from Source 1.0
-Code 1.1 Coming soon
+## Building from Source 1.0 Don't
+Code 1.1 Coming soon For now download the APK 
 
-1. Open the project folder in **Android Studio**.
+1. Open the project folder in **Android Studio**
 2. Select **Build > Build Bundle(s) / APK(s) > Build APK(s)** from the top menu.
 3. *(Optional)* To customize your default favourites before compiling, edit the app list at the top of `MainActivity.java`—apps are matched by the display name shown on your TV.
 
