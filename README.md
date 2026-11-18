@@ -22,7 +22,7 @@ My TV was sluggish, and the stock home screen was filled with recommendations an
 
 The launcher is a native Android app written in Java inside a single `MainActivity.java` file of roughly 1,000 lines, using **zero third-party libraries**. The entire user interface is constructed programmatically in code rather than XML layout files, keeping the project footprint tiny and the APK lightweight. Weather data is fetched from the free [Open-Meteo](https://open-meteo.com/) API, and approximate location comes from an [ipapi.co](https://ipapi.co/) lookup—neither requires an API key.
 
-I built it iteratively alongside Claude (Anthropic's AI assistant), working through each version step by step. I described the features I wanted and tested every build directly on my Sony TV while Claude wrote and revised the code. Along the way, I also made direct edits to the source code—including designing the layout where Row 1 remains anchored at the top with extra rows underneath, as well as the automatic tile scaling logic—assigning a new version number to each milestone.
+I built it with Claude when I got stuck (Anthropic's AI assistant), working through each version step by step. I described the features I wanted and tested every build directly on my Sony TV while Claude helped writes some and I revised the code. Along the way, I also made direct edits to the source code—including designing the layout where Row 1 remains anchored at the top with extra rows underneath, as well as the automatic tile scaling logic—assigning a new version number to each milestone.
 
 ## Version History
 
