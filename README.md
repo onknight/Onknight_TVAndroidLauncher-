@@ -24,8 +24,11 @@ The launcher is a native Android app written in Java inside a single `MainActivi
 
 I built it with Claude when I got stuck (Anthropic's AI assistant), working through each version step by step. I described the features I wanted and tested every build directly on my Sony TV while Claude helped writes some and I revised the code. Along the way, I also made direct edits to the source code—including designing the layout where Row 1 remains anchored at the top with extra rows underneath, as well as the automatic tile scaling logic—assigning a new version number to each milestone.
 
-## Version History
-
+## Version History:
+***1.1** An update to the original version 1 release a bug fix
+The original launcher was built with my favourite apps hard coded into the top row
+We fixed that with this bug fix your top apps based on how many times you've clicked on it will take up the top row
+Sorry about that this is my first app bear with me as I work through any issues
 * **1.0** – First full release. Row 1 holds only favourites plus the Menu button, extra rows sit beneath it, and tiles scale dynamically by row count and screen width with a dedicated *Tile size* setting.
 * **0.7** – Consolidated *All apps* and *Settings* into a single *Menu* button, adding options to add or remove an app row.
 * **0.6** – Added support for one to three favourite rows and usage-based smart ordering.
