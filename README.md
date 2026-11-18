@@ -49,7 +49,7 @@ Sorry about that this is my first app bear with me as I work through any issues
 
 1. Open the project folder in **Android Studio**
 2. Select **Build > Build Bundle(s) / APK(s) > Build APK(s)** from the top menu.
-3. *(Optional)* To customize your default favourites before compiling, edit the app list at the top of `MainActivity.java`—apps are matched by the display name shown on your TV.
+3. *(mandatory before you compile)* To customize your default favourites before compiling, edit the app list at the top of `MainActivity.java`—apps are matched by the display name shown on your TV.
 If you'd rather not compile it yourself download the APK it's a little different it's designed to make the top row your top click apps
 ## Privacy
 
